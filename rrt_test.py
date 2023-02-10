@@ -1,3 +1,8 @@
+'''
+Requirements:
+pip install pygame anytree
+'''
+
 import pygame as pg
 import random
 import sys, math
