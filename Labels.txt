@@ -12,3 +12,4 @@ Enemy (drone)
 Bicycle
 Tree
 Clock
+Animal
