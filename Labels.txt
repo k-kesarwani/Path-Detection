@@ -13,3 +13,5 @@ Bicycle
 Tree
 Clock
 Animal
+Building
+Bridge
