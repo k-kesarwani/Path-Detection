@@ -1,0 +1,14 @@
+Cars
+Furniture
+Person
+Phone
+Laptop
+Television
+Bags
+Signs
+Lamps
+Mug
+Enemy (drone)
+Bicycle
+Tree
+Clock
