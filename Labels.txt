@@ -1,12 +1,12 @@
-Cars
+Car
 Furniture
 Person
 Phone
 Laptop
 Television
-Bags
-Signs
-Lamps
+Bag
+Sign
+Lamp
 Mug
 Enemy (drone)
 Bicycle
@@ -15,3 +15,6 @@ Clock
 Animal
 Building
 Bridge
+Plant
+CCTV
+Decoration
