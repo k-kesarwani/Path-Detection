@@ -1,0 +1,20 @@
+Car
+Furniture
+Person
+Phone
+Laptop
+Television
+Bag
+Sign
+Lamp
+Mug
+Enemy (drone)
+Bicycle
+Tree
+Clock
+Animal
+Building
+Bridge
+Plant
+CCTV
+Decoration
