@@ -1,4 +1,4 @@
-#   File:                       RRT.py
+#   File:                       RRTYoloV7Tiny.py
 #   Author:                     Paavo Mäkelä & Henry Pekkermann & Karl Björn
 #   Description:                Implementing YoloV7-Tiny and RRT on tello drone
 #   Weights from:               https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov7-tiny.weights
